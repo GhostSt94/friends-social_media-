@@ -6,3 +6,7 @@ Avec FRIENDS, postez des status et restez en contact avec votre entourage.
 
 chat functionality no done yet
 
+
+link: https://friends-94.000webhostapp.com/
+
+
